@@ -10,7 +10,7 @@
     <string name="store_tab">Stores</string>
 
     <string name="title_top">Top fragment</string>
-    
+
     <string-array name="pizzas">
         <item>Diavolo</item>
         <item>Funghi</item>
